@@ -16,6 +16,7 @@
 # Build artifacts
 Binaries/
 Build/
+Builds/        # <<< Added to ignore the 'Builds' folder
 # Allow PakBlacklist files
 !Build/*/
 Build/**/*
